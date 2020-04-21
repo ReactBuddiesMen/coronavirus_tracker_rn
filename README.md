@@ -9,7 +9,7 @@ API JSON: [TheVirusTracker - PH](https://api.thevirustracker.com/free-api?countr
 ### Initialization
 To be decided either with Expo or RN-CLI:
 
-**Expo**: Switch to branch `initialize-expo-tab`, and then create a `pull request`.
+**Expo**: Switch to branch `initialize-expo-tab`, and then create a `New pull request`.
 
-**RN-CLI**: Switch to branch `initialize-rn-cli`, and then create a `pull request`.
+**RN-CLI**: Switch to branch `initialize-rn-cli`, and then create a `New pull request`.
 
