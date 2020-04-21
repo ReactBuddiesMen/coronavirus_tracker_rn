@@ -3,7 +3,7 @@ Covid-19 (SARS-CoV-2) tracker for Philippine cases using React-Native.
 
 
 ### Data Source
-API: TBD
+API: *TBD*
 
 
 ### Initialization
